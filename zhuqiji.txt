@@ -1,3 +1,2 @@
-git is free software.
-git is a version system.
-wruwwa
+git is a distributed version system.
+git is a free system.
